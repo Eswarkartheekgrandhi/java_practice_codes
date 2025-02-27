@@ -101,6 +101,7 @@ class Solution {
                 }
             }
         }
+        //To convert an ArrayList<String> to a String[] array, we use: res.toArray(new String[0]);
         return res.toArray(new String[0]);
     }
 }
